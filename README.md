@@ -4,14 +4,11 @@
 
 This is a mini project I built in my free time to practice my eye for detail. It consist of three price boxes for a storage service.
 
-The design was inspired and adapted from [this Frontend Mentor challenge](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
+The design was inspired from [this Frontend Mentor challenge](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
 
 ## Starting off 🚀
 
 You can fork this proyect if you want to have a copy of it in your own repository. If you want to have a copy in your local memory, you should either clone it or download the ZIP file.
-### Pre-requisites 📋
-
-Node version used: 16.13
 
 ## Deployment 📦
 
