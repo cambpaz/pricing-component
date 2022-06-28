@@ -1,4 +1,4 @@
-# CoffeeRoasters - eCommerce for the Coderhouse's ReactJS course
+# Pricing component with toggle
 
 ![Project's Screenshot](https://res.cloudinary.com/db8t2tgov/image/upload/v1656443550/capturaProyecto_bwfrlg.png)
 
