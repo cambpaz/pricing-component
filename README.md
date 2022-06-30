@@ -12,8 +12,8 @@ You can fork this proyect if you want to have a copy of it in your own repositor
 
 ## Deployment 📦
 
-I used GitHub Pages to deploy this proyect.
-You can find the deployed website [here](https://cambpaz.github.io/pricing-component/)
+I used Vercel to deploy this proyect.
+You can find the deployed website [here](https://pricing-component-six.vercel.app/)
 
 ## Built with 🛠️
 
